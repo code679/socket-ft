@@ -2,7 +2,7 @@ These codes are used to transfer files
 
 = Introduction =
 
-*   Download the code.
-*   Compile it.
-*   Run the broadcaster.c with ip address as parameter.
+#   Download the code.
+#   Compile it.
+#   Run the broadcaster.c with ip address as parameter.
     In case of local machine use 127.0.0.1
