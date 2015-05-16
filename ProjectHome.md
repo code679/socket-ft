@@ -1,0 +1,1 @@
+The code is used to implement file transfer in LINUX by implementing socket programming in C.
